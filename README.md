@@ -1,4 +1,6 @@
 # hello-world
 Testing repository for learning Git
 
-this is the master branch
+Yoyoyo!
+
+This Git is the shit!
