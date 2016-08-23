@@ -2,8 +2,9 @@ Practise File
 ----
 @TinyLouis
 
-
 This file is to be added to the master repository in the Git server!
+
+Changing file for committing to server
 
 Then changes will be made to 
 practise making commits
